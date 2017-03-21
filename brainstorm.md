@@ -12,6 +12,7 @@
 * control flow 
   * if/then/else 
   * for loop/while loop  
+* functions
 * data structures 
   * classes 
     * self 
