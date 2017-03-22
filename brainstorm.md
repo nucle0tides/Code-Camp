@@ -1,3 +1,4 @@
+* installing python
 * java != python 
   * interpreted vs compiled (...and interpreted) 
 * what is python even good for?
@@ -16,13 +17,12 @@
 * data structures 
   * classes 
     * self 
-    * constructor/__init__ 
+    * constructors 
   * objects 
   * ...everthing is an object?  
 * functional elements, yield, etc (???)
 * what is python even good for (revisited) 
   * scripting 
-    * 
   * scraping 
     * beautiful soup
   * web applications 
